@@ -1,0 +1,8 @@
+prefix=/home/alg/underwater_ws/src/grid_map_header/cmake-build-debug/devel
+
+Name: grid_map_header
+Description: Description of grid_map_header
+Version: 0.0.0
+Cflags: -I/home/alg/underwater_ws/src/grid_map_header/cmake-build-debug/devel/include
+Libs: -L${prefix}/lib 
+Requires: grid_map_msgs roscpp rospy std_msgs message_runtime

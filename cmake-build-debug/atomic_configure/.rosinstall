@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alg/underwater_ws/src/grid_map_header/cmake-build-debug/devel/setup.sh
